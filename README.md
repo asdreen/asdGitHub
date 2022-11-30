@@ -18,7 +18,7 @@ I am a Full-Stack developer student,find out more about me here:
                         </div>
                     </a>
              <a href="https://www.gmail.com/AsdrenJerliu/">
-                      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt="Google Badge"/>
+                      <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=white alt="Google Badge"/>
                         </div>
                     </a>
 
