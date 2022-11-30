@@ -25,5 +25,6 @@ I am a Full-Stack developer student,find out more about me here:
   <a href="https://www.telegram.com/AsdrenJerliu/">
                       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt="Telegram Badge"/>
                         </div>
-                    </a>
+             </a>
 
+ </div>
