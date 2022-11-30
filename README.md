@@ -7,6 +7,14 @@
 ### Hi there 👋 i am Asdren Jerliu
 
 I am a Full-Stack developer student,find out more about me here:
-
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<div id="header" align="center">
+          <div id="badges">
+        <div id="social" align="center">
+                    <a href="https://www.linkedin.com/in/AsdrenJerliu/">
+                      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+                    </a>
+                    <a href="https://www.instagram.com/AsdrenJerliu/">
+                      <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+                        </div>
+                    </a>
 
