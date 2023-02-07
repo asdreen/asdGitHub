@@ -93,12 +93,12 @@ Currently a student full-stack web developer @Epicode.
 
   <p align="center">:fire: My Stats :</p>
 <div id="stats" align="center">
-<img class="img" src="https://raw.githubusercontent.com/talmkg/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
-<img class="img" src="https://raw.githubusercontent.com/talmkg/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
+<img class="img" src="https://raw.githubusercontent.com/asdreen/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
+<img class="img" src="https://raw.githubusercontent.com/asdreen/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
   </div>
 <div id="stats" align="center">
-<img class="img" src="https://raw.githubusercontent.com/talmkg/github-stats/master/generated/overview.svg#gh-light-mode-only"/>
-<img class="img" src="https://raw.githubusercontent.com/talmkg/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
+<img class="img" src="https://raw.githubusercontent.com/asdreen/github-stats/master/generated/overview.svg#gh-light-mode-only"/>
+<img class="img" src="https://raw.githubusercontent.com/asdreen/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
   </div>
 
 
