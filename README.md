@@ -90,6 +90,16 @@ Currently a student full-stack web developer @Epicode.
 <br>
 
 -----
-
+  <p align="center">:fire: My Stats :</p>
+<div id="stats" align="center">
+<img class="img" src="https://raw.githubusercontent.com/asdreen/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
+<img class="img" src="https://raw.githubusercontent.com/asdreen/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
+  </div>
+<div id="stats" align="center">
+<img class="img" src="https://raw.githubusercontent.com/asdreen/github-stats/master/generated/overview.svg#gh-light-mode-only"/>
+<img class="img" src="https://raw.githubusercontent.com/asdreen/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
+  </div>
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=asdreen&theme=onedark_duo&border_radius=4)](https://git.io/streak-stats)
 
 
