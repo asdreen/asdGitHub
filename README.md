@@ -35,5 +35,5 @@ Currently a student full-stack web developer @Epicode.
 * ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 * ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 * ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-* ![redux](https://img.shields.io/badge/Redux-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+?style=for-the-badge&logo=appveyor
 
