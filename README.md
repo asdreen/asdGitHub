@@ -27,7 +27,7 @@ Currently a student full-stack web developer @Epicode.
 🧠 I'm currently learning MongoDB, Rest APIs and working with Mongoose and ExpressJs
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=asdreen&show_icons=true&locale=en" alt="asdreen" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=asdreen&show_icons=true&locale=en" alt="asdreen" /></p>
 <br>
 <br>
 
