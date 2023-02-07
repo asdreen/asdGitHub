@@ -35,8 +35,8 @@ Currently a student full-stack web developer @Epicode.
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
    ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
- <br>
    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  <br>
    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
    ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
    ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -62,4 +62,68 @@ Currently a student full-stack web developer @Epicode.
     
 
 <br>
+ 
+ <br>
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+
+<a href="https://github.com/lgadza/">
+ 
+	
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lgadza&theme=tokyonight" alt="lgadza_streak"/>
+</a>
+</div>
+
+
+
+<br>
+<br>
+<br>
+
+-----
+
+<br>
+<br>
+
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://www.linkedin.com/in/louis-gadza-3565741b1/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Louis Gadza-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+	<li>
+		<a href="https://instagram.com/louis_gadza" target="blank"><img align="center" src="https://img.shields.io/badge/instagram:  Louis Gadza-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=louis style="margin-bottom: 5px;" /></a>
+	</li>
+
+<br>
+
+
+
+<br>
+
+<li>
+<a href="mailto:siuolgadza@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  Louis Gadza-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+</ul>
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
+<br>
+
+<div align='center'>
 
