@@ -76,7 +76,7 @@ Currently a student full-stack web developer @Epicode.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=asdreen&theme=tokyonight" alt="asdreen_streak"/>
 </a>
 </div>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asdreen&hide=stars)](https://github.com/asdreena/github-readme-stats)
 
 
 <br>
