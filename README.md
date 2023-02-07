@@ -76,7 +76,7 @@ Currently a student full-stack web developer @Epicode.
 
 <div align="center">
 
-<a href="https://github.com/lgadza/">
+<a href="https://github.com/asdreen/">
  
 	
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=asdreen&theme=tokyonight" alt="asdreen_streak"/>
@@ -91,7 +91,14 @@ Currently a student full-stack web developer @Epicode.
 
 -----
 
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=asdreen&theme=onedark_duo&border_radius=4)](https://git.io/streak-stats)
+  <p align="center">:fire: My Stats :</p>
+<div id="stats" align="center">
+<img class="img" src="https://raw.githubusercontent.com/talmkg/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
+<img class="img" src="https://raw.githubusercontent.com/talmkg/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
+  </div>
+<div id="stats" align="center">
+<img class="img" src="https://raw.githubusercontent.com/talmkg/github-stats/master/generated/overview.svg#gh-light-mode-only"/>
+<img class="img" src="https://raw.githubusercontent.com/talmkg/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
+  </div>
 
 
