@@ -17,6 +17,8 @@ Currently a student full-stack web developer @Epicode.
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asdren-jerliu-8b332a1a5/)
  <a href="https://www.instagram.com/asdr3nn/">
  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
+  <a href="https://www.facebook.com/asdrenjerliu/">
+ <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
 
 
 ## Other Information...
