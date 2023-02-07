@@ -12,7 +12,7 @@
 ## 🚀 About Me
 Currently a student full-stack web developer @Epicode.
 
-<p align="center">
+
 ## 🔗 Contact Me 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asdren-jerliu-8b332a1a5/)
  <a href="https://www.instagram.com/asdr3nn/">
@@ -33,7 +33,7 @@ Currently a student full-stack web developer @Epicode.
 ## Skills
 <br>
 
-
+<p align="center">
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -56,15 +56,15 @@ Currently a student full-stack web developer @Epicode.
    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     
 <br>
-
+<div align="center">
 - **Softwares and Tools**:
-
+<div id="stats" align="center">
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-    
+   </div> 
 
 <br>
  
@@ -92,7 +92,7 @@ Currently a student full-stack web developer @Epicode.
 -----
 
  
-<div id="stats" align="center">
+
 
 
 
