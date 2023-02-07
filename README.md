@@ -15,6 +15,8 @@ Currently a student full-stack web developer @Epicode.
 
 ## 🔗 Contact Me 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asdren-jerliu-8b332a1a5/)
+<a href="mailto:asdren.jerliu@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  Asdren Jerliu-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 
 
 
@@ -86,44 +88,5 @@ Currently a student full-stack web developer @Epicode.
 
 -----
 
-<br>
-<br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/louis-gadza-3565741b1/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Louis Gadza-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-	<li>
-		<a href="https://instagram.com/louis_gadza" target="blank"><img align="center" src="https://img.shields.io/badge/instagram:  Louis Gadza-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=louis style="margin-bottom: 5px;" /></a>
-	</li>
-
-<br>
-
-
-
-<br>
-
-<li>
-<a href="mailto:siuolgadza@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Louis Gadza-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<div align='center'>
 
