@@ -32,6 +32,8 @@ Currently a student full-stack web developer @Epicode.
 
 <br>
 <br>
+<br>
+<br>
 
 
 ## Skills
