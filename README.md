@@ -15,6 +15,8 @@ Currently a student full-stack web developer @Epicode.
 
 ## 🔗 Contact Me 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asdren-jerliu-8b332a1a5/)
+ <a href="https://www.instagram.com/asdreen/">
+ <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 
 
 ## Other Information...
@@ -76,7 +78,7 @@ Currently a student full-stack web developer @Epicode.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=asdreen&theme=tokyonight" alt="asdreen_streak"/>
 </a>
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asdreen&hide=stars)](https://github.com/asdreena/github-readme-stats)
+
 
 
 <br>
