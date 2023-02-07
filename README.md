@@ -15,7 +15,8 @@ Currently a student full-stack web developer @Epicode.
 
 ## 🔗 Contact Me 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asdren-jerliu-8b332a1a5/)
-[![Facebook](https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/in/asdren-jerliu-8b332a1a5/)
+[![Facebook](https://img.shields.io/badge/Facebook-8b332a1a5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/in/asdren-jerliu-8b332a1a5/)
+[![Instagram](https://img.shields.io/badge/Instagram-8b332a1a5?style=for-the-badge&logo=linkedin&logoColor=red)](https://www.instagram.com/in/asdren-jerliu-8b332a1a5/)
 <a href="mailto:asdren.jerliu@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Asdren Jerliu-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 
