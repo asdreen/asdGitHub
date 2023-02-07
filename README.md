@@ -73,7 +73,7 @@ Currently a student full-stack web developer @Epicode.
 <a href="https://github.com/lgadza/">
  
 	
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lgadza&theme=tokyonight" alt="lgadza_streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asdreen&theme=tokyonight" alt="asdreen_streak"/>
 </a>
 </div>
 
