@@ -19,6 +19,8 @@ Currently a student full-stack web developer @Epicode.
  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
   <a href="https://www.facebook.com/asdrenjerliu/">
  <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
+  <a href="https://www.gmail.com/asdrenjerliu/">
+ <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
 
 
 ## Other Information...
