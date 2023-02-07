@@ -12,10 +12,9 @@
 ## 🚀 About Me
 Currently a student full-stack web developer @Epicode.
 
-Lover of all things caffeinated.
 
 ## 🔗 Contact Me 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asdren-jerliu-4871a3134/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asdren-jerliu-8b332a1a5/)
 
 
 
