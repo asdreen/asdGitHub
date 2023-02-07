@@ -28,5 +28,14 @@
   A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and
   technical systems to create impact.<br>
   </pre>
-  
+  ![Ashutosh's Github Profile Views](https://komarev.com/ghpvc/?username=ashutosh1919&color=blueviolet)  
+
+
+<a href="https://github.com/jstrieb/github-stats">
+
+![](https://github.com/ashutosh1919/ashutosh1919/blob/master/generated/overview.svg)
+![](https://github.com/ashutosh1919/ashutosh1919/blob/master/generated/languages.svg)
+
+</a>
+<!-- [![Ashutosh's Github Stats](https://github-readme-stats.vercel.app/api?username=ashutosh1919&show_icons=true&count_private=true)](https://github.com/ashutosh1919/github-readme-stats)   -->
 
