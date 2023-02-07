@@ -9,9 +9,9 @@
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 
-<a href="https://www.linkedin.com/in/asdrenjerliu"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
+<a href="https://www.linkedin.com/in/asdrenjerliu"><img src="https://github.com/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/ashutosh1919"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
-<a href="https://www.facebook.com/asdrenjerliu/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/facebook.png" width="40" /></a>
+<a href="https://www.facebook.com/asdrenjerliu/"><img src="https://github.com/blob/master/logos/facebook.png" width="40" /></a>
 <a href="https://www.instagram.com/layman_brother"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" /></a>
 
 
