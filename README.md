@@ -11,8 +11,8 @@
 
 ## 🚀 About Me
 Currently a student full-stack web developer @Epicode.
-<p align="center">
 
+<p align="center">
 ## 🔗 Contact Me 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asdren-jerliu-8b332a1a5/)
  <a href="https://www.instagram.com/asdr3nn/">
@@ -58,7 +58,7 @@ Currently a student full-stack web developer @Epicode.
 <br>
 
 - **Softwares and Tools**:
-<div id="stats" align="center">
+
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
