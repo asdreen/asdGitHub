@@ -85,9 +85,9 @@ Currently a student full-stack web developer @Epicode.
 
 
 
-<br>
-<br>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andycotruta&show_icons=true&locale=en&layout=compact" alt="andycotruta" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andycotruta&show_icons=true&locale=en" alt="andycotruta" /></p>
 
 -----
 
