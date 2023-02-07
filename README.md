@@ -29,6 +29,8 @@ Currently a student full-stack web developer @Epicode.
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=asdreen&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=asdreen&show_icons=true&locale=en" alt="asdreen" /></p>
+<br>
+<br>
 
 
 ## Skills
