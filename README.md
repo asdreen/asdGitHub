@@ -58,7 +58,7 @@ Currently a student full-stack web developer @Epicode.
 <br>
 
 - **Softwares and Tools**:
-
+<div id="stats" align="center">
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
@@ -91,14 +91,8 @@ Currently a student full-stack web developer @Epicode.
 
 -----
 
-  <p align="center">:fire: My Stats :</p>
+ 
 <div id="stats" align="center">
-<img class="img" src="https://raw.githubusercontent.com/asdreen/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
-<img class="img" src="https://raw.githubusercontent.com/asdreen/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
-  </div>
-<div id="stats" align="center">
-<img class="img" src="https://raw.githubusercontent.com/asdreen/github-stats/master/generated/overview.svg#gh-light-mode-only"/>
-<img class="img" src="https://raw.githubusercontent.com/asdreen/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
-  </div>
+
 
 
