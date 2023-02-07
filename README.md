@@ -9,33 +9,32 @@
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 
-<a href="https://www.linkedin.com/in/asdrenjerliu"><img src="https://github.com/blob/master/logos/linkedin.png" width="40" /></a>
-<a href="https://github.com/ashutosh1919"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
-<a href="https://www.facebook.com/asdrenjerliu/"><img src="https://github.com/blob/master/logos/facebook.png" width="40" /></a>
-<a href="https://www.instagram.com/layman_brother"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" /></a>
+## 🚀 About Me
+Currently a student full-stack web developer @Epicode.
+
+Lover of all things caffeinated.
+
+## 🔗 Contact Me 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asdren-jerliu-4871a3134/)
 
 
-<h3>What I do? 👨‍💻</h3>
-<summary>Full Stack Developer 🍥</summary>
-<summary>Bussines Consulent 🤖</summary>
-<summary>Managing Projects 👁️‍🗨️</summary>
 
- 
-<h3>The Questions You May Have 😕</h3>
-
-  <summary>Who are you? 👨</summary>
-  <pre>
-  A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and
-  technical systems to create impact.<br>
-  </pre>
-  ![Ashutosh's Github Profile Views](https://komarev.com/ghpvc/?username=ashutosh1919&color=blueviolet)  
+## Other Information...
+🧠 I'm currently learning MongoDB, Rest APIs and working with Mongoose and ExpressJs
 
 
-<a href="https://github.com/jstrieb/github-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=asdreen&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-![](https://github.com/asdrenjerliu/asdrenjerliu/blob/master/generated/overview.svg)
-![](https://github.com/asdrenjerliu/asdrenjerliu/blob/master/generated/languages.svg)
 
-</a>
-<!-- [![Ashutosh's Github Stats](https://github-readme-stats.vercel.app/api?username=ashutosh1919&show_icons=true&count_private=true)](https://github.com/ashutosh1919/github-readme-stats)   -->
+## Skills
+* ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+* ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+* ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+* ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+* ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+* ![bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+* ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+* ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+* ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
